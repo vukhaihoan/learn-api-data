@@ -19,6 +19,11 @@
             "name":"mai",
             "age":"26",
             "address":"nam dinh"
+        },
+        {
+            "name":"khach",
+            "age":"26",
+            "address":"nam dinh"
         }
     ]
 }
