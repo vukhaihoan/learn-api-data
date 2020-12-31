@@ -1,0 +1,22 @@
+[
+    {
+        "name":"hoan",
+        "age":"18",
+        "address":"ha noi"
+    },
+    {
+        "name":"yen",
+        "age":"46",
+        "address":"giao thanh"
+    },
+    {
+        "name":"tung",
+        "age":"52",
+        "address":"giao thanh"
+    },
+    {
+        "name":"mai",
+        "age":"26",
+        "address":"nam dinh"
+    }
+]
