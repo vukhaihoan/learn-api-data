@@ -2,4 +2,6 @@
 
 # first git reponsitory
 
-# from Jan 8, 2021
+Last commit Jan 8, 2021
+Firt commit Dec 31, 2020
+Other commit : edit readme
